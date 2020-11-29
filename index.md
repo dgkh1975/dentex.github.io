@@ -1,5 +1,5 @@
 # YouTube Downloader for Android
-## an Android app to download YouTube videos (and extract/convert audio to mp3). 
+### an Android app to download YouTube videos (and extract/convert audio to mp3). 
 #### For Android 4.1+
 
 This will be a stripped-down and lightweight version of the old blog.   
@@ -9,11 +9,13 @@ Get it here:
 
 # [DOWNLOAD LATEST BUILD](/files/apk/dentex.youtube.downloader_v7.0-beta-3.apk)
 
-version: **7.0 beta 3**
+versionName: `7.0 beta 3`
+
+versionCode: `149`
 
 SHA1 checksum: `9e354b308e756660534c1a50b9678c0704c5d373`
 
-[End User License Agreement (EULA)](/eula.html)
+[End User License Agreement (EULA)](/docs/eula.html)
 
 ### Installation
 - First of all, remember to enable **Unknown Sources** from your device's **Security** settings, to allow installations of non market apps (safely ignore the subsequent dialog). Please note: in newer versions of Android, this kind of permission is not system-wide, but has to be given to single apps;
@@ -58,6 +60,8 @@ Are not supported for download all videos that:
 - are live events.
 
 ### Credits
+
+    Translations: see [HERE](/docs/translators.html).
     
     Credits for the custom download manager to Hiroshi Matsunaga (matsuhiro): 
     https://github.com/matsuhiro/AndroidDownloadManger (released "unlicensed"). 
