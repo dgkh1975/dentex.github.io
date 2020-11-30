@@ -9,9 +9,9 @@ Get it here:
 
 # [DOWNLOAD LATEST BUILD](/files/apk/dentex.youtube.downloader_v7.0-beta-4.apk)
 
-versionName: `"7.0-beta-4"`
+versionName: `7.0-beta-4`
 
-versionCode: `"150"`
+versionCode: `150`
 
 SHA1 checksum: `2464bf08d7cba6e364a210ffa77bc665315c7c92`
 
