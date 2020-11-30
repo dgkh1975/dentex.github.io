@@ -7,7 +7,7 @@ It will be used to provide the latest apk for the **YTD** app.
 
 Get it here:
 
-# [DOWNLOAD LATEST BUILD](/files/apk/dentex.youtube.downloader_v7.0-beta-3.apk)
+# [DOWNLOAD LATEST BUILD](/files/apk/dentex.youtube.downloader_v7.0-beta-4.apk)
 
 versionName: `"7.0-beta-4"`
 
