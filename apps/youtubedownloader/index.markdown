@@ -1,29 +1,47 @@
-# YouTube Downloader for Android
-### an Android app to download YouTube videos (and extract/convert audio to mp3). 
-#### Compatible with Android Lollipop (5.0 - API21) and up
+---
+layout: page
+title: "YouTube Downloader for Android"
+date: 2018-03-03 20:20
+comments: true
+sharing: true
+footer: true
+description: YouTube Downloader for Android - a free and ad-free app
+keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, XDA, XDA_dentex, twidentex, YouTube, downloader, FFmpeg, audio, music, video, extraction, mp3, easy, 2160p, 1080p, 720p, 480p, HD, 4K, webm, mp4, m4a, ogg, opus, 360°, 3D"
+---
+###Android app to download YouTube videos
+###(and extract/convert audio to mp3). 
+####For Android 4.1+
 
-This will be a stripped-down and lightweight version of the old blog.   
-It will be used to provide the latest apk for the **YTD** app.
+[YTD](/files/apk/latest/dentex.youtube.downloader.apk)
 
-Get it here:
+[download here](/files/apk/latest/dentex.youtube.downloader.apk)
 
-# [DOWNLOAD LATEST BUILD](/files/apk/dentex.youtube.downloader_v7.0-beta-3.apk)
+`versionCode="148"`
 
-versionName: `7.0 beta 3`
+`versionName="6.9"`
 
-versionCode: `149`
+MD5 checksum: `f2f292289cc016a5a383cd348844a40c`
 
-SHA1 checksum: `9e354b308e756660534c1a50b9678c0704c5d373`
+SHA1 checksum: `fd62e805ea6bd48c88157750c01a113d4daf22a9`
 
-[End User License Agreement (EULA)](/docs/eula.html)
+Beta available: `false`
 
-### Installation
-- The app supports Android versions starting from Lollipop (5.0);
-- Remember to enable **Unknown Sources** from your device's **Security** settings, to allow installations of non market apps (safely ignore the subsequent dialog). Please note: in newer versions of Android, this kind of permission is not system-wide, but has to be given to single apps;
+## **YouTube Downloader for Android**
+## **Copyright (C) 2012-2020 Samuele Rini**
+
+##[End User License Agreement](/apps/youtubedownloader/eula.html)
+
+##DOWNLOAD
+- The latest *application package* is available for download from this blog:
+
+[![download button](/images/others/download_button.png)](/files/apk/latest/dentex.youtube.downloader.apk)
+
+##INSTALLATION
+- First of all, remember to enable **Unknown Sources** from your device's **Security** settings, to allow installations of non market apps (safely ignore the subsequent dialog). Please note: in newer versions of Android, this kind of permission is not system-wide, but has to be given to single apps;
 - If the "install" button is not working, temporary disable apps as Halo, Screenfilter, Twilight, LastPass password manager or anything similar (apps that do "draw on other apps");
 - To install the app, click on your notification bar message for the completed download (if using the system downloads app, otherwise this may vary: i.e. if you have a file manager installed, you can browse to your downloads folder and install YTD's apk directly, clicking on the apk file).
 
-### Usage
+##USAGE
 - Search for video and music within the app itself, OR
 - Select the "share" button in the YouTube App while watching a video (or share any YouTube plain text link via any App) and choose "YouTube downloader";
 - You'll see all the video codecs and qualities available for the video you're on.
@@ -33,7 +51,7 @@ then:
 - Use the Dashboard to interact with downloaded video (audio extraction/conversion/mux and file management);
 - On Lollipop or above, you can copy/move/rename/delete files on external sdcard.
 
-### Features
+##FEATURES
 - Search for YouTube videos within the app;
 - Download on your device;
 - Remote download on another PC via SSH;
@@ -47,12 +65,13 @@ then:
 - Video list filters by format, quality etc via (left) sliding menu;
 - Many preferences to customize usage.
 
-### Known issues
+###KNOWN ISSUES
 - Some very long running downloads may be forced to PAUSE state if the app is not kept to the front for a certain amount of time. In this cases a manual resume is needed;
 - On KitKat and above, is possible to use the external (removable) sdcard as download destination folder, but that's one caveat: only the app's private folder will be available. IMPORTANT note: this folder will be deleted by the system (together with all your downloads) if you uninstall the app. For the moment it's not possible to choose a different directory on the external/removable sdcard.
 - The stream traditionally used by the app for the video preview if often missing nowadays, so a low resolution video-only stream is being used in such cases.
 
-### Anti-features
+##ANTI-FEATURES
+(Please do **NOT** send me logcat reports about this list; thanks)
 
 Are not supported for download all videos that:
 
@@ -60,9 +79,17 @@ Are not supported for download all videos that:
 - are not available in your country;
 - are live events.
 
-### Credits
+###Translation project:
+https://crowdin.com/project/youtubedownloader
 
-    Translations: see [HERE](/docs/translators.html).
+###Support forum:
+[XDA-developers Thread](http://forum.xda-developers.com/showthread.php?t=2335450)
+
+###Telegram:
+Channel: https://t.me/ytd_ch    
+User's group: https://t.me/ytd_general
+
+## CREDITS
     
     Credits for the custom download manager to Hiroshi Matsunaga (matsuhiro): 
     https://github.com/matsuhiro/AndroidDownloadManger (released "unlicensed"). 
@@ -121,7 +148,7 @@ Are not supported for download all videos that:
     SmoothProgressBar: https://github.com/castorflex/SmoothProgressBar
     Copyright &#169; 2014 Antoine Merle, released under the Apache License 2.0.
     
-### Code excerpts Licenses
+## Code excerpts Licenses
     
     Stack Overflow (http://stackoverflow.com): 
     a question and answer site for programmers where all the content is CC BY-SA 3.0 licensed 
@@ -152,7 +179,7 @@ Are not supported for download all videos that:
     SHA1 file checksum method: http://www.rgagnon.com/javadetails/java-0416.html
     CC BY-NC-SA 2.5 CA licensed (see http://creativecommons.org/licenses/by-nc-sa/2.5/ca/)
 
-### Notes
+#### Note
 
     Many device-framed screenshots have been
     generated with the "Device Frame Generator" Android App by 
@@ -162,13 +189,7 @@ Are not supported for download all videos that:
     Attribution 3.0 Unported" license (CC BY).
 
 
-### Changelog
-
-     v7.0 Beta 3 - Aug 20 2020
-    -----------------------------------
-    [x] new search feature, under the hood
-    [x] some other minor fixes
-    [x] Bulgarian translation added (incomplete)
+## CHANGELOG
 
      v6.9 - Jul 28 2020
     -----------------------------------
@@ -905,6 +926,4 @@ Are not supported for download all videos that:
     [x] file-chooser for download destination
     [x] add quality suffix options 
     [x] file renaming options 
-    -----------------------------------    
-
-_Copyright (C) 2012-2020 Samuele Rini_
+    -----------------------------------
