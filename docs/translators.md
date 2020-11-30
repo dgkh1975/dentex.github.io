@@ -17,8 +17,8 @@
 
 ## Translators from the older project at "GetLocalization"
 
-    Arabic
-    -----
+#### Arabic
+
     almufadali
     engineer1ak
     batruot551
@@ -38,8 +38,8 @@
     MrMoHanD
     Plwww
 
-    Czech
-    -----
+#### Czech
+
     TseeTsee
     cebreus
     Martin005
@@ -52,13 +52,13 @@
     mr_coci
     novas78
 
-    Danish
-    -----
+#### Danish
+
     ngh5505
     fsadak
 
-    German
-    -----
+#### German
+
     user_99
     B47741
     Elsensee
@@ -75,8 +75,8 @@
     outis151
     noc_jfcbs
 
-    Spanish
-    -----
+#### Spanish
+
     filoxo
     RaggaMuffin
     ed57ve
@@ -89,14 +89,14 @@
     Shide
     protheusdk
 
-    Finnish
-    -----
+#### Finnish
+
     jkinnunen
     Edris89
     joulupukki3000
 
-    French
-    -----
+#### French
+
     blux
     j3r3myp
     Sean_Long
@@ -115,15 +115,15 @@
     RomXDA
     alf40musik
 
-    Greek
-    -----
+#### Greek
+
     Vasilis_K
     iApps
     er388
     outis151
 
-    Hebrew
-    -----
+#### Hebrew
+
     gadgetscar
     gidisus
     num1gever
@@ -131,16 +131,16 @@
     eyal71
     kobro
 
-    Croatian
-    -----
+#### Croatian
+
     gaskoo
     MicroChirp
     tripo.matijevic
     dugi991
     JAN261202
 
-    Hungarian
-    -----
+#### Hungarian
+
     LilProphet
     szudao
     Neo1472
@@ -150,8 +150,8 @@
     greenkovacs
     yesszus
 
-    Indonesian
-    -----
+#### Indonesian
+
     jalantikus
     sarwasunda
     Firlan_La_Mayor
@@ -163,12 +163,12 @@
     Ghofurabdurohman
     jovienixon
 
-    Italian
-    -----
+#### Italian
+
     dentex
 
-    Japanese
-    -----
+#### Japanese
+
     arlyanagi
     ntakimura
     Murabon
@@ -179,21 +179,21 @@
     Ichitaka
     honya
 
-    Khmer
-    -----
+#### Khmer
+
     danh.hong
     pisethinfo
     SomboChea
 
-    Korean
-    -----
+#### Korean
+
     chakata
     digitie
     tibyte
     hyosung.kim
 
-    Dutch
-    -----
+#### Dutch
+
     EkimPadd
     3vilrabbit
     martinusbe
@@ -203,12 +203,12 @@
     Wim_N
     tonyvermaelen
 
-    Norwegian
-    -----
+#### Norwegian
+
     Frisurfer
 
-    Polish
-    -----
+#### Polish
+
     zimhope
     zomer331
     daniel.kukula
@@ -223,8 +223,8 @@
     kojak1989
     TomeG2KC
 
-    Portuguese, Brazilian
-    -----
+#### Portuguese, Brazilian
+
     marciozomb13
     eduds
     marcuzvolk
@@ -233,8 +233,8 @@
     ederzeique
     guilherme.dias
 
-    Portuguese
-    -----
+#### Portuguese
+
     PLUG313
     mfsr98
     mauam
@@ -242,8 +242,8 @@
     insertcoin
     louiemancenido
 
-    Romanian
-    -----
+#### Romanian
+
     martinu
     eliboyDEV
     iepurasu_poznas
@@ -251,33 +251,33 @@
     andrei.dragan
     mschumiv
 
-    Russian
-    -----
+#### Russian
+
     gaich
     Toz1k
     svetlov
     io_
 
-    Slovenian
-    -----
+#### Slovenian
+
     secpol
 
-    Serbian
-    -----
+#### Serbian
+
     velimir
     tripo.matijevic
     miki195
     askee
 
-    Thai
-    -----
+#### Thai
+
     samart45
     yutthaphon2068
     averrin
     kriangdet
 
-    Turkish
-    -----
+#### Turkish
+
     FatihFIRINCI
     rew06
     adeep
@@ -294,8 +294,8 @@
     TheAvian
     mgunay
 
-    Vietnamese
-    -----
+#### Vietnamese
+
     thanhtai2009
     anhpp
     dzungpv
@@ -303,8 +303,8 @@
     Katoji_Rikito
     NightOwlEyes
 
-    Chinese
-    -----
+#### Chinese
+
     cities516
     HairyRobot
     Contactfront
