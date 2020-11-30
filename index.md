@@ -9,11 +9,11 @@ Get it here:
 
 # [DOWNLOAD LATEST BUILD](/files/apk/dentex.youtube.downloader_v7.0-beta-3.apk)
 
-versionName: `7.0 beta 3`
+versionName: `"7.0-beta-4"`
 
-versionCode: `149`
+versionCode: `"150"`
 
-SHA1 checksum: `9e354b308e756660534c1a50b9678c0704c5d373`
+SHA1 checksum: `2464bf08d7cba6e364a210ffa77bc665315c7c92`
 
 [End User License Agreement (EULA)](/docs/eula.html)
 
@@ -164,11 +164,11 @@ Are not supported for download all videos that:
 
 ### Changelog
 
-     v7.0 Beta 3 - Aug 20 2020
+     v7.0 beta 4 - Nov 30 2020
     -----------------------------------
-    [x] new search feature, under the hood
-    [x] some other minor fixes
-    [x] Bulgarian translation added (incomplete)
+    [x] updated video search (but limited to 20 results)
+    [x] revised themes
+    [x] other minor fixes and clean-up
 
      v6.9 - Jul 28 2020
     -----------------------------------

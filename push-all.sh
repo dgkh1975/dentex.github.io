@@ -2,6 +2,10 @@
 
 MSG=`zenity --entry --text="gh-pages commit msg:"`
 
+if [ -z $MSG ]; then
+  exit 1
+fi
+
 echo " --> adding \"all\""
 git add --all
 
