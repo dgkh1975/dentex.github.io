@@ -62,8 +62,8 @@ Are not supported for download all videos that:
 - are live events.
 
 ### Support
-- email
-- XDA: https://forum.xda-developers.com/t/app-free-android-5-0-youtube-downloader-v7-0.2335450/
+- email (guess it);
+- [xda-developers forum](https://forum.xda-developers.com/t/app-free-android-5-0-youtube-downloader-v7-0.2335450/).
 
 ### Credits
 
@@ -216,7 +216,9 @@ For the translators list, see [HERE](/docs/translators.html).
     [x] fix for age restricted videos (4)
     [x] amoled-black and terminal-green app themes
     [x] reverse default dashboard entries order (new on top)
-    [x] completed translations for Kurdish, Thai, Chinese, etc. (thanks Cibranî, starwalking2017, candysweetplayzmc and all contributors @Crowdin)
+    [x] completed translations for Kurdish, Thai, Chinese, etc. 
+        (thanks Cibranî, starwalking2017, candysweetplayzmc 
+        and all contributors @Crowdin)
     [x] support for vnd.youtube links
     [x] fix live events detection (thanks @openeco)
 
@@ -374,7 +376,8 @@ For the translators list, see [HERE](/docs/translators.html).
     [x] fix for the progress bar during FFmpeg operations
     [x] use correct file extension for opus formats
     [x] support for ogg 4.0 ch. and m4a 5.1 ch. new audio-only formats
-    [x] do not block age-restricted videos anymore (please note: only some of them will be available for download)
+    [x] do not block age-restricted videos anymore 
+        (please note: only some of them will be available for download)
     [x] better Search tab's results sorting dialog
     [x] prevent app's log from becoming too big 
 
@@ -388,7 +391,8 @@ For the translators list, see [HERE](/docs/translators.html).
 
      v4.8.4 - Jan 24 2016
     -----------------------------------
-    [x] if device/ROM doesn't support direct writing to extSdCard, disable custom download location
+    [x] if device/ROM doesn't support direct writing to extSdCard, 
+        disable custom download location
     [x] support for file copy/move/rename/delete on extSdCard (Lollipop and above)
 
      v4.8.3 - Dic 20 2015
@@ -408,8 +412,10 @@ For the translators list, see [HERE](/docs/translators.html).
 
      v4.8 - Nov 6 2015
     -----------------------------------
-    [x] always use system file-chooser, on Lollipop or above, with extSdCard not present or not (directly) writeable
-    [x] fixed a bug introduced in previous version, causing custom download folder to change into private app's data folder 
+    [x] always use system file-chooser, on Lollipop or above, 
+        with extSdCard not present or not (directly) writeable
+    [x] fixed a bug introduced in previous version, 
+        causing custom download folder to change into private app's data folder 
 
      v4.7 - Nov 1 2015
     -----------------------------------
@@ -424,7 +430,8 @@ For the translators list, see [HERE](/docs/translators.html).
     [x] material design for android versions > Lollipop
     [x] remove option to embed video preview (now fullscreen only)
     [x] better detection of free space on memory storage for some devices
-    [x] handle the MP4 720p downloads for some very long videos, when file length can't be retrieved
+    [x] handle the MP4 720p downloads for some very long videos, 
+        when file length can't be retrieved
     [x] add option for MP3 "download" quality
     [x] show correct file size for 480p and 1080p
 
