@@ -61,19 +61,23 @@ Are not supported for download all videos that:
 - are not available in your country;
 - are live events.
 
+### Support
+- email
+- XDA: https://forum.xda-developers.com/t/app-free-android-5-0-youtube-downloader-v7-0.2335450/
+
 ### Credits
 
-    Translations: see [HERE](/docs/translators.html).
+For the translators list, see [HERE](/docs/translators.html).
     
     Credits for the custom download manager to Hiroshi Matsunaga (matsuhiro): 
     https://github.com/matsuhiro/AndroidDownloadManger (released "unlicensed"). 
     
     The FFmpeg binary (http://www.ffmpeg.org/index.html), 
     used for the audio extraction feature, is released under the LGPL-3.0.
-    (FFmpeg version 2.1.3 Copyright &#169; 2000-2014 the FFmpeg developers)
+    (FFmpeg version 2.1.3 Copyright (c) 2000-2014 the FFmpeg developers)
     
     The Android-filechooser library is released under the MIT license.
-    (Android-filechooser Copyright &#169; 2012 Hai Bison)
+    (Android-filechooser Copyright (c) 2012 Hai Bison)
     Updated version at https://code.google.com/p/an-huu/
     
     Launcher and notification icons by Sam Plane: 
@@ -86,20 +90,20 @@ Are not supported for download all videos that:
     
     The SlidingMenu library is released under the Apache License:
     https://github.com/jfeinstein10/SlidingMenu
-    (Copyright &#169; 2012 Jeremy Feinstein)
+    (Copyright (c) 2012 Jeremy Feinstein)
     
     The liblame library, used to compile FFmpeg, is released under the LGPL.
     A GitHub project, https://github.com/intervigilium/liblame, 
     has been used to compile the lame libraries for Android.
-    (liblame Copyright &#169; 2010 Ethan Chen)
-    (LAME Copyright &#169; 1999-2007 The LAME Project,
-    Copyright &#169; 1999-2001 Mark Taylor,
-    Copyright &#169; 1998 Micheal Cheng)
-    (mpglib Copyright &#169; 1995-1997 Michael Hipp)
+    (liblame Copyright (c) 2010 Ethan Chen)
+    (LAME Copyright (c) 1999-2007 The LAME Project,
+    Copyright (c) 1999-2001 Mark Taylor,
+    Copyright (c) 1998 Micheal Cheng)
+    (mpglib Copyright (c) 1995-1997 Michael Hipp)
     
     Audio tags editing library: Jaudiotagger by Paul Taylor, released under the LGPL.
     http://www.jthink.net/jaudiotagger/index.jsp 
-    Copyright &#169; 2004-2007 JThink Ltd
+    Copyright (c) 2004-2007 JThink Ltd
     
     Picasso: Image downloading and caching library;
     OkHttp: An HTTP and SPDY client for Android and Java applications;
@@ -109,18 +113,15 @@ Are not supported for download all videos that:
     https://github.com/square/okhttp/
     https://github.com/square/okio/
     
-    Crouton library: Copyright &#169; 2012-2013 Benjamin Weiss and 
-    Copyright &#169; 2012 Neofonie Mobile GmbH, as modified by Prashant Adesara 
+    Crouton library: Copyright (c) 2012-2013 Benjamin Weiss and 
+    Copyright (c) 2012 Neofonie Mobile GmbH, as modified by Prashant Adesara 
     https://github.com/prashantadesara/CroutonExample 
     released under the Apache License
     
     Gold Medal icon by Andy, from http://psdblast.com/
     
     PagerSlidingTabStrip layout: https://github.com/astuetz/PagerSlidingTabStrip
-    Copyright &#169; 2013 Andreas Stuetz, released under the Apache License.
-
-    SmoothProgressBar: https://github.com/castorflex/SmoothProgressBar
-    Copyright &#169; 2014 Antoine Merle, released under the Apache License 2.0.
+    Copyright (c) 2013 Andreas Stuetz, released under the Apache License.
     
 ### Code excerpts Licenses
     
@@ -132,7 +133,7 @@ Are not supported for download all videos that:
     http://www.roman10.net/how-to-get-cpu-information-on-android/
     by Liu Feipeng
     
-    Utils.scanMedia(&#8230;): 
+    Utils.scanMedia(): 
     http://www.grokkingandroid.com/adding-files-to-androids-media-library-using-the-mediascanner/
     by Wolfram Rittmeyer
     
@@ -152,16 +153,6 @@ Are not supported for download all videos that:
     
     SHA1 file checksum method: http://www.rgagnon.com/javadetails/java-0416.html
     CC BY-NC-SA 2.5 CA licensed (see http://creativecommons.org/licenses/by-nc-sa/2.5/ca/)
-
-### Notes
-
-    Many device-framed screenshots have been
-    generated with the "Device Frame Generator" Android App by 
-    Prateek Srivastava, available at 
-    https://github.com/f2prateek/Device-Frame-Generator/
-    The generated artwork is released under the "Creative Commons 
-    Attribution 3.0 Unported" license (CC BY).
-
 
 ### Changelog
 
