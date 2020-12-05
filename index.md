@@ -164,12 +164,6 @@ Are not supported for download all videos that:
 
 ### Changelog
 
-     v7.0 beta 4 - Nov 30 2020
-    -----------------------------------
-    [x] updated video search (but limited to 20 results)
-    [x] revised themes
-    [x] other minor fixes and clean-up
-
      v6.9 - Jul 28 2020
     -----------------------------------
     [x] encrypted signature patch (24)
