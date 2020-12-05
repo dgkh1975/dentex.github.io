@@ -7,13 +7,13 @@ It will be used to provide the latest apk for the **YTD** app.
 
 Get it here:
 
-# [DOWNLOAD LATEST BUILD](/files/apk/dentex.youtube.downloader_v7.0-beta-4.apk)
+# [DOWNLOAD LATEST BUILD](/files/apk/dentex.youtube.downloader_v7.0.apk)
 
-versionName: `7.0-beta-4`
+versionName: `7.0`
 
-versionCode: `150`
+versionCode: `152`
 
-SHA1 checksum: `2464bf08d7cba6e364a210ffa77bc665315c7c92`
+SHA1 checksum: `f338b1f6193bd12825c018e327c09fcbd93e487e`
 
 [End User License Agreement (EULA)](/docs/eula.html)
 
@@ -49,8 +49,9 @@ then:
 
 ### Known issues
 - Some very long running downloads may be forced to PAUSE state if the app is not kept to the front for a certain amount of time. In this cases a manual resume is needed;
-- On KitKat and above, is possible to use the external (removable) sdcard as download destination folder, but that's one caveat: only the app's private folder will be available. IMPORTANT note: this folder will be deleted by the system (together with all your downloads) if you uninstall the app. For the moment it's not possible to choose a different directory on the external/removable sdcard.
-- The stream traditionally used by the app for the video preview if often missing nowadays, so a low resolution video-only stream is being used in such cases.
+- On KitKat and above, is possible to use the external (removable) sdcard as download destination folder, but that's one caveat: only the app's private folder will be available. IMPORTANT note: this folder will be deleted by the system (together with all your downloads) if you uninstall the app. For the moment it's not possible to choose a different directory on the external/removable sdcard;
+- The stream traditionally used by the app for the video preview if often missing nowadays, so a low resolution video-only stream is being used in such cases;
+- age-restricted videos requiring log-in might not work.
 
 ### Anti-features
 
@@ -163,6 +164,13 @@ Are not supported for download all videos that:
 
 
 ### Changelog
+
+     v7.0 - Dec 05 2020
+    -----------------------------------
+    [x] fix formats parsing
+    [x] new video search (but limited to 20 results)
+    [x] revised themes
+    [x] other minor fixes and clean-up
 
      v6.9 - Jul 28 2020
     -----------------------------------
