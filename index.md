@@ -7,13 +7,13 @@ It will be used to provide the latest apk for the **YTD** app.
 
 Get it here:
 
-# [DOWNLOAD LATEST BUILD](/files/apk/dentex.youtube.downloader_v7.0.apk)
+# [DOWNLOAD LATEST BUILD](/files/apk/dentex.youtube.downloader_v7.1.apk)
 
-versionName: `7.0`
+versionName: `7.1`
 
-versionCode: `152`
+versionCode: `153`
 
-SHA1 checksum: `f338b1f6193bd12825c018e327c09fcbd93e487e`
+SHA1 checksum: `385fcdbb750f40120719c3aaaea2ed7dd0234686`
 
 [End User License Agreement (EULA)](/docs/eula.html)
 
@@ -155,6 +155,10 @@ For the translators list, see [HERE](/docs/translators.html).
     CC BY-NC-SA 2.5 CA licensed (see http://creativecommons.org/licenses/by-nc-sa/2.5/ca/)
 
 ### Changelog
+
+     v7.1 - Dec 16 2020
+    -----------------------------------
+    [x] fix for age restricted videos (6)
 
      v7.0 - Dec 05 2020
     -----------------------------------
